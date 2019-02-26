@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="achievement">
+        <Key name="set">
+            <Value int="23"/>
+        </Key>
+        <Key name="save">
+            <Value string="0d:w4adha59d75gh87fb17JJ9HaaBGJKCI9IF7dNBcHNF3LMGG7IEIcd64MN13HJGIIMD3LJEFLMGEILFF7N35fb44fd87d8DGIKGELNGIJLCDI8FIK8CDKLEELLGFMLBIIK"/>
+        </Key>
+        <Key name="playername">
+            <Value text="크렉스"/>
+        </Key>
+    </Section>
+    <Signature value="F18E1EE05C0112819DC525A40887CEA59F98FF18"/>
+</Bank>

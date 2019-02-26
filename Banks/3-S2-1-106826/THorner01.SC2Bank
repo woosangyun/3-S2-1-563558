@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MissionCompletedAge">
+        <Key name="4">
+            <Value int="2"/>
+        </Key>
+        <Key name="1">
+            <Value int="7"/>
+        </Key>
+        <Key name="3">
+            <Value int="5"/>
+        </Key>
+        <Key name="8">
+            <Value int="3"/>
+        </Key>
+        <Key name="2">
+            <Value int="6"/>
+        </Key>
+        <Key name="17">
+            <Value int="4"/>
+        </Key>
+        <Key name="5">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryMisc">
+        <Key name="0">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchProgressZerg">
+        <Key name="4">
+            <Value int="3"/>
+        </Key>
+        <Key name="8">
+            <Value int="3"/>
+        </Key>
+        <Key name="5">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchProgressProtoss">
+        <Key name="17">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchOldLevel">
+        <Key name="1">
+            <Value int="4"/>
+        </Key>
+        <Key name="2">
+            <Value int="11"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchOldLevelUI">
+        <Key name="1">
+            <Value int="4"/>
+        </Key>
+        <Key name="2">
+            <Value int="11"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchState">
+        <Key name="12">
+            <Value int="2"/>
+        </Key>
+        <Key name="13">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="MissionAvailableAge">
+        <Key name="9">
+            <Value int="3"/>
+        </Key>
+        <Key name="12">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="ObjectiveProgress"/>
+    <Section name="StoryStage">
+        <Key name="4">
+            <Value int="5"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value int="60000"/>
+        </Key>
+        <Key name="2">
+            <Value int="31"/>
+        </Key>
+        <Key name="7">
+            <Value int="5"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="HelpUnitsPanel">
+        <Key name="4">
+            <Value string="Medic"/>
+        </Key>
+        <Key name="9">
+            <Value string="HammerSecurity"/>
+        </Key>
+        <Key name="1">
+            <Value string="Marine"/>
+        </Key>
+        <Key name="6">
+            <Value string="MissileTurret"/>
+        </Key>
+        <Key name="3">
+            <Value string="CommandCenter"/>
+        </Key>
+        <Key name="8">
+            <Value string="WarPig"/>
+        </Key>
+        <Key name="0">
+            <Value int="15"/>
+        </Key>
+        <Key name="2">
+            <Value string="SCV"/>
+        </Key>
+        <Key name="10">
+            <Value string="Reaper"/>
+        </Key>
+        <Key name="11">
+            <Value string="Firebat"/>
+        </Key>
+        <Key name="7">
+            <Value string="Marauder"/>
+        </Key>
+        <Key name="15">
+            <Value string="PlanetaryFortress"/>
+        </Key>
+        <Key name="12">
+            <Value string="Hellion"/>
+        </Key>
+        <Key name="13">
+            <Value string="SensorTower"/>
+        </Key>
+        <Key name="5">
+            <Value string="Bunker"/>
+        </Key>
+    </Section>
+    <Section name="MissionCompletion">
+        <Key name="17-Brutal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2-Brutal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3-Brutal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8-Brutal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5-Brutal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="4-Brutal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1-Brutal">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryState">
+        <Key name="StoryState|ArmoryOpened">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|FirstMissionMercBought">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaVisited">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaHornerLinePlayed">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|LabHornerLinePlayed">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|TipFactoryPlayed">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|LabVisited">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|ArmoryVisited">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaIntroDone">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|LabIntroDone">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|TipZergCreepPlayed">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|TipNewZergResearchPlayed">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|Hanson02DebriefingDone">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|LabArtifactCount">
+            <StateValue int="2"/>
+        </Key>
+        <Key name="StoryState|ArmoryIntroDone">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaOpened">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|LabOpened">
+            <StateValue int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionBestTime">
+        <Key name="17-Brutal">
+            <Value int="1289"/>
+        </Key>
+        <Key name="2-Brutal">
+            <Value int="665"/>
+        </Key>
+        <Key name="3-Brutal">
+            <Value int="1212"/>
+        </Key>
+        <Key name="8-Brutal">
+            <Value int="2804"/>
+        </Key>
+        <Key name="5-Brutal">
+            <Value int="3364"/>
+        </Key>
+        <Key name="4-Brutal">
+            <Value int="1353"/>
+        </Key>
+        <Key name="1-Brutal">
+            <Value int="199"/>
+        </Key>
+    </Section>
+    <Section name="TutorialHistory">
+        <Key name="4_2">
+            <Value text="병영에서 해병을 포함한 기타 유닛을 훈련할 수 있습니다. 해병을 훈련하려면 먼저 병영을 선택하고 해병 훈련 버튼을 클릭하십시오."/>
+        </Key>
+        <Key name="7_3">
+            <Value string="Assets\Textures\btn-building-terran-commandcenter.dds"/>
+        </Key>
+        <Key name="2_2">
+            <Value text="커서를 화면 가장자리로 옮겨 카메라를 그쪽으로 이동하십시오."/>
+        </Key>
+        <Key name="7_4">
+            <Value string="Assets\Textures\video_tutorial_terran_base_construction.ogv"/>
+        </Key>
+        <Key name="6_2">
+            <Value text="보급품이 모자라면 유닛을 훈련할 수 없습니다. 더 많은 보급고를 건설해 보급품을 늘리십시오."/>
+        </Key>
+        <Key name="2_1">
+            <Value text="카메라 제어"/>
+        </Key>
+        <Key name="3_1">
+            <Value text="유닛 이동"/>
+        </Key>
+        <Key name="7_1">
+            <Value text="구조물 건설"/>
+        </Key>
+        <Key name="7_2">
+            <Value text="구조물을 통해 유닛을 훈련하고 병력을 업그레이드할 수 있습니다. 구조물을 건설하려면 건설로봇을 선택하고 구조물 건설 능력을 사용하십시오."/>
+        </Key>
+        <Key name="1_4">
+            <Value string="Assets\Textures\video_tutorial_combat.ogv"/>
+        </Key>
+        <Key name="0">
+            <Value int="7"/>
+        </Key>
+        <Key name="1_2">
+            <Value text="유닛을 선택한 채로, 적을 마우스 오른쪽 버튼으로 클릭해 공격 명령을 내립니다."/>
+        </Key>
+        <Key name="2_3">
+            <Value string="Assets\Textures\ui_tutorial_cameraicon.dds"/>
+        </Key>
+        <Key name="4_4">
+            <Value string="Assets\Textures\video_tutorial_terran_unit_production.ogv"/>
+        </Key>
+        <Key name="5_2">
+            <Value text="유닛을 훈련하고 구조물을 건설하려면 광물과 베스핀 가스가 필요합니다. 자원을 모으려면 건설로봇을 선택하고 광물 지대나 정제소를 오른쪽 클릭하십시오."/>
+        </Key>
+        <Key name="1_3">
+            <Value string="Assets\Textures\btn-command-attack.dds"/>
+        </Key>
+        <Key name="2_4">
+            <Value string="Assets\Textures\video_tutorial_camera_control.ogv"/>
+        </Key>
+        <Key name="4_1">
+            <Value text="유닛 훈련"/>
+        </Key>
+        <Key name="5_1">
+            <Value text="자원 채취"/>
+        </Key>
+        <Key name="5_3">
+            <Value string="Assets\Textures\icon-mineral-terran.dds"/>
+        </Key>
+        <Key name="6_1">
+            <Value text="보급품"/>
+        </Key>
+        <Key name="3_2">
+            <Value text="유닛을 선택한 채로, 마우스 오른쪽 버튼을 클릭해 이동 명령을 내립니다."/>
+        </Key>
+        <Key name="5_4">
+            <Value string="Assets\Textures\video_tutorial_resource_collection.ogv"/>
+        </Key>
+        <Key name="6_3">
+            <Value string="Assets\Textures\icon-supply-terran.dds"/>
+        </Key>
+        <Key name="1_1">
+            <Value text="공격"/>
+        </Key>
+        <Key name="3_3">
+            <Value string="Assets\Textures\btn-command-move.dds"/>
+        </Key>
+        <Key name="3_4">
+            <Value string="Assets\Textures\video_tutorial_movement.ogv"/>
+        </Key>
+        <Key name="4_3">
+            <Value string="Assets\Textures\btn-unit-terran-marine.dds"/>
+        </Key>
+        <Key name="6_4">
+            <Value string="Assets\Textures\video_tutorial_terran_supply.ogv"/>
+        </Key>
+    </Section>
+    <Section name="DebugTechCheatOption">
+        <Key name="0">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="MercStatus">
+        <Key name="1">
+            <Value int="2"/>
+        </Key>
+        <Key name="3">
+            <Value int="2"/>
+        </Key>
+        <Key name="2">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="TechStatus">
+        <Key name="4">
+            <Value int="2"/>
+        </Key>
+        <Key name="14">
+            <Value int="4"/>
+        </Key>
+        <Key name="16">
+            <Value int="2"/>
+        </Key>
+        <Key name="9">
+            <Value int="4"/>
+        </Key>
+        <Key name="1">
+            <Value int="4"/>
+        </Key>
+        <Key name="6">
+            <Value int="2"/>
+        </Key>
+        <Key name="19">
+            <Value int="4"/>
+        </Key>
+        <Key name="3">
+            <Value int="2"/>
+        </Key>
+        <Key name="8">
+            <Value int="4"/>
+        </Key>
+        <Key name="20">
+            <Value int="4"/>
+        </Key>
+        <Key name="2">
+            <Value int="4"/>
+        </Key>
+        <Key name="10">
+            <Value int="2"/>
+        </Key>
+        <Key name="11">
+            <Value int="4"/>
+        </Key>
+        <Key name="7">
+            <Value int="4"/>
+        </Key>
+        <Key name="15">
+            <Value int="2"/>
+        </Key>
+        <Key name="12">
+            <Value int="4"/>
+        </Key>
+        <Key name="13">
+            <Value int="4"/>
+        </Key>
+        <Key name="17">
+            <Value int="1"/>
+        </Key>
+        <Key name="5">
+            <Value int="2"/>
+        </Key>
+        <Key name="18">
+            <Value int="4"/>
+        </Key>
+    </Section>
+</Bank>
