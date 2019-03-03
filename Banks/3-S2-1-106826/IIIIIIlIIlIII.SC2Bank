@@ -62,7 +62,7 @@
             <Value int="10"/>
         </Key>
         <Key name="2">
-            <Value int="35"/>
+            <Value int="23"/>
         </Key>
         <Key name="5">
             <Value int="0"/>
@@ -102,5 +102,5 @@
             <Value int="0"/>
         </Key>
     </Section>
-    <Signature value="031AF8ECA44816478DF3FE9C0268C16C26220278"/>
+    <Signature value="0B5C64AEADA5A5109C7ED2D819B0028A048CD867"/>
 </Bank>
