@@ -2,14 +2,14 @@
 <Bank version="1">
     <Section name="achievement">
         <Key name="set">
-            <Value int="23"/>
+            <Value int="54"/>
         </Key>
         <Key name="save">
-            <Value string="0bwE2c8956gg2b9b7c8eG6LJ5GdaCDJKCHgIBb8LEbLK13KJ13HKEEbh68JNCIMLEIM8BEILDIKIEG7MEH7K649c8bbe7a8MEGMNFFL8BFI8E3KLFEMLCHH81F7KE3LIEHLJ"/>
+            <Value string="0eg*26fb3cga96a93agaF7MM8Eb9DGMIBE98C6aMFaHIEEMKBF7JFI9f8cIIFEKJC3L8C3IKCHIL1ELMBEJM75bb6cgh2ca8FDJMGFLJGHLIDHJNEEJIDGHLDGHKGDIND3LL"/>
         </Key>
         <Key name="playername">
             <Value text="크렉스"/>
         </Key>
     </Section>
-    <Signature value="D4B37D2724C38DAF5473F27B407EF3ED1DD14907"/>
+    <Signature value="E3E44C3B6D843F3456B0F3854C88B96B3F52BF37"/>
 </Bank>
